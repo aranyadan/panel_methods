@@ -1,0 +1,1 @@
+A panel methid implementation using simple vortex sheets on the panels. The second implementation  with a uniform source sheet is still buggy.
